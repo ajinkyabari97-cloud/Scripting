@@ -2,10 +2,12 @@ echo "We are trying this practical from linux EC2"
 echo "I am from Young minds"
 echo "We are from batch-27" 
 echo "I am learning Git/Github"
-
 echo "This is my first commit in DevOps"
 echo "Adding one more line to test git stash"
 echo "My name is aju"
 echo "I am learning devops"
 echo " I have done 2 month in devops"
-echo "2 months pending to complete devops"
+echo "2 months pending to complete d
+echo "I am donw with my changes"
+echo " All are done with changes" 
+
